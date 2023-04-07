@@ -1,0 +1,5 @@
+*.ipynb
+*.csv
+*.md
+/.ipynb_checkpoints
+!Identify_Customer_segments.ipynb
